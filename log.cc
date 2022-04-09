@@ -2,4 +2,5 @@
  Welcome to YamatosLoader.
  
 -(9/4/2022) Loader Crash Issue Fixed. Download Instructions Again.
--(9/4/2022) Loader Auto Updated. 
+-(9/4/2022) Loader Auto Updated.
+-(Note: Never delete "key.dat" file. Everytime save!)

@@ -9,3 +9,4 @@
 -(9/4/2022) Loader Crash Issue Fixed. Download Instructions Again.
 -(9/4/2022) Loader Auto Updated.
 -(10/4/2022) Spoofer will be release in few days.
+-(12/4/2022) Aimbot: BAN RISK.

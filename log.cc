@@ -1,6 +1,6 @@
  
  Welcome to YamatosLoader.
-STATUS: Undetected
+ STATUS: Undetected
  
 - (Authentication failed. => Wrong Hwid Need Hwid Reset)
 - (Something went wrong with driver. => Driver Load Error. Something Blocked Driver on PC.)

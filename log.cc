@@ -7,3 +7,4 @@
 - (Your key is error or used. => Key.dat File Missing.)
 
 -(17/4/2022) Cheat Updated. Spoofer Updated.
+-(18/4/2022) Loader Instant Close Fixed.

@@ -5,3 +5,5 @@ vitor
 galex
 onurc
 koplin
+Areka
+pc1games

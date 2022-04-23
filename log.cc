@@ -9,3 +9,4 @@
 -(17/4/2022) Cheat Updated. Spoofer Updated.
 -(18/4/2022) Loader Instant Close Fixed.
 -(23/4/2022) Tested. Still Undetected.
+-(24/4/2022) Cheat Work Perfect. | Spoofer Have Some Issues.

@@ -7,3 +7,4 @@
 - (Your key is error or used. => Key.dat File Missing.)
 
 -(27/4/2022) Updated. Working Fine. UNDETECTED!
+-(28/4/2022) Updated for latest patch.

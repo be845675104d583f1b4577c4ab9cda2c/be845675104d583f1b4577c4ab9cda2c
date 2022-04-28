@@ -11,3 +11,4 @@ aayro
 suxid
 DahBoof
 ukwhatn
+ASUS

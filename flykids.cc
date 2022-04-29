@@ -11,4 +11,5 @@ aayro
 suxid
 DahBoof
 ukwhatn
-ASUS
+anger
+ataka

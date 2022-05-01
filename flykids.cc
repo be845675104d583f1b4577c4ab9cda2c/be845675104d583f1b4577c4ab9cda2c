@@ -15,3 +15,4 @@ anger
 ataka
 Happy
 darre
+Pau Tuang

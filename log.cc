@@ -6,6 +6,6 @@
 - (Something went wrong with driver. => Driver Load Error. Something Blocked Driver on PC.)
 - (Your key is error or used. => Key.dat File Missing.)
 
--(27/4/2022) Updated. Working Fine. UNDETECTED!
--(28/4/2022) Updated for latest patch.
--(30/4/2022) Misc -> Field of View added. (New Feature)
+-(30/04/2022) Misc -> Field of View added. (New Feature)
+-(08/04/2022) Loader -> Auto Updated.
+-(08/04/2022) Spoofer -> Thread4 Stuck Fixed.

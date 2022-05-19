@@ -37,3 +37,4 @@ Driin
 quick
 musl1
 joshu
+magic

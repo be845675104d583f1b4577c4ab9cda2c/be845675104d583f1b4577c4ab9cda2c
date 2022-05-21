@@ -19,11 +19,8 @@ KACPE
 Slaa
 karan
 ftyy5i
-JD
 timor
 becks
-sa
-Aj
 Maverzz
 ablanstar
 Pierce

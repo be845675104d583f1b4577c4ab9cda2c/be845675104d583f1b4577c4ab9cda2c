@@ -1,4 +1,3 @@
- p0004
  Welcome to YamatosLoader.
  STATUS: UNDETECTED
  

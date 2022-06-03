@@ -34,6 +34,8 @@ Ali
 there
 Slin
 Driin
+kazbo
+memos
 quick
 musl1
 joshu

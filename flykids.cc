@@ -31,7 +31,6 @@ Rias
 ahmed
 imagi
 wongh
-Ali
 there
 Slin
 Driin

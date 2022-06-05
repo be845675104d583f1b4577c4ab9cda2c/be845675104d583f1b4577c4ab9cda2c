@@ -1,4 +1,3 @@
- Welcome to YamatosLoader.
- STATUS: UNDETECTED
- 
--(30/04/2022) Misc -> Field of View added. (New Feature)
+motherfuckers who send nonsense logs instead of error code; float kids, float!
+
+p0001

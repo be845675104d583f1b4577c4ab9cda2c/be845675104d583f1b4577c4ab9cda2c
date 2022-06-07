@@ -1,2 +1,2 @@
-YamatosLoader is now under maintenance. (it will take 1-3 days)
-p0001
+Welcome to YamatosLoader.
+ • No update information.

@@ -1,2 +1,4 @@
 Welcome to YamatosLoader.
- • No update information.
+ - No update information.
+
+ p0002

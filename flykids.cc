@@ -4,7 +4,6 @@ GDY
 drose
 Macma
 TSAIIK
-User
 Panda
 samue
 jordan

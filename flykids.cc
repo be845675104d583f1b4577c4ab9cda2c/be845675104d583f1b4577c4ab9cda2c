@@ -1,6 +1,7 @@
 Bulut
 marvi
 GDY
+Shit ROC Yamatos
 drose
 Macma
 TSAIIK
@@ -11,4 +12,3 @@ jordan
 emrec
 GAMING
 Tyler
-Shit ROC Yamatos

@@ -6,4 +6,3 @@ WELCOME TO YAMATOS LOADER.
 -(23-06-2022) New UI Released.
 -(24-06-2022) Spoofer BSOD issue solved.
 -(24-06-2022) Auto Update [NEW]
-p0001

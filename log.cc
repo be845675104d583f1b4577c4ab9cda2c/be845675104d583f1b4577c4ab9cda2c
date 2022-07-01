@@ -8,3 +8,5 @@ WELCOME TO YAMATOS LOADER.
 
 
 -(01-07-2022) Valorant Cheat Updated.
+  
+[Status]: Undetected.

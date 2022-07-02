@@ -9,6 +9,8 @@ Panda
 samue
 jordan
 emrec
+chris
+dcg
 GAMING
 Dreamz
 Tyler

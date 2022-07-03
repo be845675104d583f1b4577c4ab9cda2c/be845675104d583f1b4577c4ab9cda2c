@@ -10,6 +10,7 @@ samue
 jordan
 emrec
 chris
+emir kartal
 dcg
 GAMING
 Dreamz

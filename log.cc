@@ -8,3 +8,4 @@ WELCOME TO YAMATOS LOADER.
 
 -(01-07-2022) Valorant Cheat Updated.
 -(09-07-2022) Valorant Cheat is under maintenance. It will open in a few hours!
+p0001

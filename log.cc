@@ -6,7 +6,5 @@ WELCOME TO YAMATOS LOADER.
 -(24-06-2022) Spoofer BSOD issue solved.
 -(24-06-2022) Auto Update [NEW]
 
-
 -(01-07-2022) Valorant Cheat Updated.
-  
-[Status]: Undetected.
+-(09-07-2022) Valorant Cheat is under maintenance. It will open in a few hours!

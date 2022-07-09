@@ -1,7 +1,7 @@
  Welcome to Yamatos Loader.
   
  # Announcement #
- -(09-07-2022) Valorant Cheat is under maintenance. It will open in a few hours!
+ -(09-07-2022) -
   
  # Loader #
  -(22-06-2022) Spoofer Tab Removed.

@@ -15,5 +15,6 @@ Welcome to Yamatos Loader.
 -(09-07-2022) Valorant Cheat Updated.
 -(09-07-2022) Sometimes crash problem solved in some windows versions.
 -(09-07-2022) Visible function improved.
-
+-(09-07-2022) Aimbot improved. (tested=superud1337)
+  
 p0001

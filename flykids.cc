@@ -3,7 +3,6 @@ marvi
 Falcon Network
 GDY
 drose
-666
 Macma
 TSAIIK
 Panda

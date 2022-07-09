@@ -10,7 +10,6 @@ Panda
 samue
 jordan
 emrec
-paddy
 chris
 paddy
 emir kartal

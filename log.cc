@@ -1,8 +1,8 @@
 Welcome to Yamatos Loader.
 
  # Announcement #
- -(09-07-2022) -
-
+ -(14-07-2022) Valorant Cheat Updated.
+ 
  # Loader #
  -(22-06-2022) Spoofer Tab Removed.
  -(23-06-2022) Some bugs fixed.
@@ -12,7 +12,7 @@ Welcome to Yamatos Loader.
  -(09-07-2022) Old UI Released.
 
  # Cheat #
- -(09-07-2022) Valorant Cheat Updated.
  -(09-07-2022) Sometimes crash problem solved in some windows versions.
  -(09-07-2022) Visible function improved.
  -(09-07-2022) Aimbot improved. (tested=ud)
+ -(09-07-2022) Valorant Cheat Updated.

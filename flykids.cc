@@ -13,6 +13,7 @@ chris
 paddy
 emir kartal
 dcg
+JACK
 ysyan
 GAMING
 Dreamz

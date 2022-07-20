@@ -1,7 +1,7 @@
 Welcome to Yamatos Loader.
 
  # Announcement #
- -(15-07-2022) YamatosCheat will be maintance for a few days. (2-3 days)
+ -(20-07-2022) YamatosCheat updated.
  
  # Loader #
  -(22-06-2022) Spoofer Tab Removed.

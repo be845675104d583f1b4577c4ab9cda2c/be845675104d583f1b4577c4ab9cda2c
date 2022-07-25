@@ -10,6 +10,7 @@ samue
 jordan
 emrec
 chris
+adrian
 paddy
 emir kartal
 dcg

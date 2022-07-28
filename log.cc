@@ -1,5 +1,6 @@
 Welcome to Yamatos Loader.
-
+Supported platforms: Windows 10 & Windows 11 All Versions.
+ 
  # Announcement #
  -(20-07-2022) YamatosCheat updated.
  
